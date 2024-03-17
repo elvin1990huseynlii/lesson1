@@ -77,3 +77,16 @@
 # result = product(n, repeat=3) 
 
 # print(list(result))
+
+
+
+# 10. Virtual Printer:
+# Daxil Edin : Java
+# Say: 6
+
+# from itertools import repeat
+
+# n = 6
+# s = input("ne cap olunsun: ")
+
+# print(list(repeat(s, n)))
