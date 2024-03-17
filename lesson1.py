@@ -67,3 +67,13 @@
 # print (" "
 # 	+ str(res))
 
+
+# 9. 3 rəqəmdən  ibarət list yaradın və bu listin rəqəmlərindən yarana biləcək kombinasiyaları çap edin
+
+# from itertools import product
+
+# n = [3, 5, 8]
+
+# result = product(n, repeat=3) 
+
+# print(list(result))
